@@ -1,0 +1,28 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\bin\Debug\texteditor.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\bin\Debug\texteditor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\obj\x86\Debug\texteditor.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\obj\x86\Debug\texteditor.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\obj\x86\Debug\texteditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\obj\x86\Debug\texteditor.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\obj\x86\Debug\texteditor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\texteditor\texteditor\obj\x86\Debug\texteditor.about.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\obj\x86\Debug\texteditor.exe
+C:\Users\Administrator\Desktop\texteditor\texteditor\obj\x86\Debug\texteditor.pdb
+C:\Users\Administrator\Desktop\texteditor\texteditor\bin\Debug\texteditor.exe
+C:\Users\Administrator\Desktop\texteditor\texteditor\bin\Debug\texteditor.pdb
+C:\Users\Administrator\Desktop\texteditor\texteditor\obj\x86\Debug\texteditor.about.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\obj\x86\Debug\texteditor.Form1.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\obj\x86\Debug\texteditor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\obj\x86\Debug\texteditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\texteditor\texteditor\obj\x86\Debug\texteditor.Form2.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.exe
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.pdb
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\bin\Debug\texteditor.exe
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\bin\Debug\texteditor.pdb
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.about.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.fankui.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.find.resources
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\texteditor\texteditor\texteditor\obj\x86\Debug\texteditor.main.resources
